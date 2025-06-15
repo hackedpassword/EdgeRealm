@@ -417,7 +417,7 @@ TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-TopLeft
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes--TopLeft
+TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopLeft
   rotate: false
   xy: 292, 1522
   size: 64, 56
