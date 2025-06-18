@@ -4,4153 +4,4489 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Desert-Bottom
+  rotate: false
+  xy: 899, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Grassland-Bottom
+  rotate: false
+  xy: 899, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Mountain-Bottom
+  rotate: false
+  xy: 899, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Plains-Bottom
+  rotate: false
+  xy: 899, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Snow-Bottom
+  rotate: false
+  xy: 899, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Tundra-Bottom
+  rotate: false
+  xy: 899, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Desert-BottomLeft
+  rotate: false
+  xy: 4, 936
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Grassland-BottomLeft
+  rotate: false
+  xy: 4, 936
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Mountain-BottomLeft
+  rotate: false
+  xy: 4, 936
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Plains-BottomLeft
+  rotate: false
+  xy: 4, 936
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Snow-BottomLeft
+  rotate: false
+  xy: 4, 936
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Tundra-BottomLeft
+  rotate: false
+  xy: 4, 936
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Desert-BottomRight
+  rotate: false
+  xy: 971, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Grassland-BottomRight
+  rotate: false
+  xy: 971, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Mountain-BottomRight
+  rotate: false
+  xy: 971, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Plains-BottomRight
+  rotate: false
+  xy: 971, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Snow-BottomRight
+  rotate: false
+  xy: 971, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Tundra-BottomRight
+  rotate: false
+  xy: 971, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Desert-Top
+  rotate: false
+  xy: 4, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Grassland-Top
+  rotate: false
+  xy: 4, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Mountain-Top
+  rotate: false
+  xy: 4, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Plains-Top
+  rotate: false
+  xy: 4, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Snow-Top
+  rotate: false
+  xy: 4, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Tundra-Top
+  rotate: false
+  xy: 4, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Desert-TopLeft
+  rotate: false
+  xy: 1043, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Grassland-TopLeft
+  rotate: false
+  xy: 1043, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Mountain-TopLeft
+  rotate: false
+  xy: 1043, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Plains-TopLeft
+  rotate: false
+  xy: 1043, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Snow-TopLeft
+  rotate: false
+  xy: 1043, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Tundra-TopLeft
+  rotate: false
+  xy: 1043, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Desert-TopRight
+  rotate: false
+  xy: 4, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Grassland-TopRight
+  rotate: false
+  xy: 4, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Mountain-TopRight
+  rotate: false
+  xy: 4, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Plains-TopRight
+  rotate: false
+  xy: 4, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Snow-TopRight
+  rotate: false
+  xy: 4, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Tundra-TopRight
+  rotate: false
+  xy: 4, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Ocean-Bottom
+  rotate: false
+  xy: 1115, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Water-Ocean/Water-Ocean-Coast-Bottom
+  rotate: false
+  xy: 1115, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Ocean-BottomLeft
+  rotate: false
+  xy: 4, 744
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Water-Ocean/Water-Ocean-Coast-BottomLeft
+  rotate: false
+  xy: 4, 744
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Ocean-BottomRight
+  rotate: false
+  xy: 1187, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Water-Ocean/Water-Ocean-Coast-BottomRight
+  rotate: false
+  xy: 1187, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Ocean-Top
+  rotate: false
+  xy: 4, 680
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Water-Ocean/Water-Ocean-Coast-Top
+  rotate: false
+  xy: 4, 680
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Ocean-TopLeft
+  rotate: false
+  xy: 1259, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Water-Ocean/Water-Ocean-Coast-TopLeft
+  rotate: false
+  xy: 1259, 1958
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Beach-Coast/Beach-Coast-Ocean-TopRight
+  rotate: false
+  xy: 4, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/EdgeRealm/Edges/Water-Ocean/Water-Ocean-Coast-TopRight
+  rotate: false
+  xy: 4, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/EdgeRealm/Edges/Beach-Desert/Beach-Desert-Coast-Bottom
   rotate: false
-  xy: 899, 1974
+  xy: 1331, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Grassland/Beach-Grassland-Coast-Bottom
   rotate: false
-  xy: 899, 1974
+  xy: 1331, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Mountain/Beach-Mountain-Coast-Bottom
   rotate: false
-  xy: 899, 1974
+  xy: 1331, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Plains/Beach-Plains-Coast-Bottom
   rotate: false
-  xy: 899, 1974
+  xy: 1331, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Snow/Beach-Snow-Coast-Bottom
   rotate: false
-  xy: 899, 1974
+  xy: 1331, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Tundra/Beach-Tundra-Coast-Bottom
   rotate: false
-  xy: 899, 1974
+  xy: 1331, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Desert/Beach-Desert-Coast-BottomLeft
   rotate: false
-  xy: 4, 952
+  xy: 4, 552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Grassland/Beach-Grassland-Coast-BottomLeft
   rotate: false
-  xy: 4, 952
+  xy: 4, 552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Mountain/Beach-Mountain-Coast-BottomLeft
   rotate: false
-  xy: 4, 952
+  xy: 4, 552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Plains/Beach-Plains-Coast-BottomLeft
   rotate: false
-  xy: 4, 952
+  xy: 4, 552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Snow/Beach-Snow-Coast-BottomLeft
   rotate: false
-  xy: 4, 952
+  xy: 4, 552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Tundra/Beach-Tundra-Coast-BottomLeft
   rotate: false
-  xy: 4, 952
+  xy: 4, 552
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Desert/Beach-Desert-Coast-BottomRight
   rotate: false
-  xy: 971, 1974
+  xy: 1403, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Grassland/Beach-Grassland-Coast-BottomRight
   rotate: false
-  xy: 971, 1974
+  xy: 1403, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Mountain/Beach-Mountain-Coast-BottomRight
   rotate: false
-  xy: 971, 1974
+  xy: 1403, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Plains/Beach-Plains-Coast-BottomRight
   rotate: false
-  xy: 971, 1974
+  xy: 1403, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Snow/Beach-Snow-Coast-BottomRight
   rotate: false
-  xy: 971, 1974
+  xy: 1403, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Tundra/Beach-Tundra-Coast-BottomRight
   rotate: false
-  xy: 971, 1974
+  xy: 1403, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Desert/Beach-Desert-Coast-Top
   rotate: false
-  xy: 4, 888
+  xy: 4, 488
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Grassland/Beach-Grassland-Coast-Top
   rotate: false
-  xy: 4, 888
+  xy: 4, 488
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Plains/Beach-Plains-Coast-Top
   rotate: false
-  xy: 4, 888
+  xy: 4, 488
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Snow/Beach-Snow-Coast-Top
   rotate: false
-  xy: 4, 888
+  xy: 4, 488
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Tundra/Beach-Tundra-Coast-Top
   rotate: false
-  xy: 4, 888
+  xy: 4, 488
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Desert/Beach-Desert-Coast-TopLeft
   rotate: false
-  xy: 1043, 1974
+  xy: 1475, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Grassland/Beach-Grassland-Coast-TopLeft
   rotate: false
-  xy: 1043, 1974
+  xy: 1475, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Plains/Beach-Plains-Coast-TopLeft
   rotate: false
-  xy: 1043, 1974
+  xy: 1475, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Snow/Beach-Snow-Coast-TopLeft
   rotate: false
-  xy: 1043, 1974
+  xy: 1475, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Tundra/Beach-Tundra-Coast-TopLeft
   rotate: false
-  xy: 1043, 1974
+  xy: 1475, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Desert/Beach-Desert-Coast-TopRight
   rotate: false
-  xy: 4, 824
+  xy: 4, 424
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Grassland/Beach-Grassland-Coast-TopRight
   rotate: false
-  xy: 4, 824
+  xy: 4, 424
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Plains/Beach-Plains-Coast-TopRight
   rotate: false
-  xy: 4, 824
+  xy: 4, 424
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Snow/Beach-Snow-Coast-TopRight
   rotate: false
-  xy: 4, 824
+  xy: 4, 424
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Beach-Tundra/Beach-Tundra-Coast-TopRight
   rotate: false
-  xy: 4, 824
+  xy: 4, 424
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-Bottom
   rotate: false
-  xy: 436, 1718
+  xy: 508, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-Bottom
   rotate: false
-  xy: 436, 1718
+  xy: 508, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-Bottom
   rotate: false
-  xy: 436, 1718
+  xy: 508, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-Bottom
   rotate: false
-  xy: 436, 1718
+  xy: 508, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-Bottom
   rotate: false
-  xy: 436, 1718
+  xy: 508, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-Bottom
   rotate: false
-  xy: 436, 1718
+  xy: 508, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-BottomLeft
   rotate: false
-  xy: 508, 1782
+  xy: 580, 1698
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-BottomLeft
   rotate: false
-  xy: 508, 1782
+  xy: 580, 1698
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-BottomLeft
   rotate: false
-  xy: 508, 1782
+  xy: 580, 1698
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-BottomLeft
   rotate: false
-  xy: 508, 1782
+  xy: 580, 1698
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-BottomLeft
   rotate: false
-  xy: 508, 1782
+  xy: 580, 1698
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-BottomLeft
   rotate: false
-  xy: 508, 1782
+  xy: 580, 1698
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-BottomRight
   rotate: false
-  xy: 580, 1846
+  xy: 652, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-BottomRight
   rotate: false
-  xy: 580, 1846
+  xy: 652, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Mountain/Fresh-Mountain-Lakes-BottomRight
   rotate: false
-  xy: 580, 1846
+  xy: 652, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-BottomRight
   rotate: false
-  xy: 580, 1846
+  xy: 652, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-BottomRight
   rotate: false
-  xy: 580, 1846
+  xy: 652, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-BottomRight
   rotate: false
-  xy: 580, 1846
+  xy: 652, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-Top
   rotate: false
-  xy: 724, 1910
+  xy: 724, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-Top
   rotate: false
-  xy: 724, 1910
+  xy: 724, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-Top
   rotate: false
-  xy: 724, 1910
+  xy: 724, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-Top
   rotate: false
-  xy: 724, 1910
+  xy: 724, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-Top
   rotate: false
-  xy: 724, 1910
+  xy: 724, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-TopLeft
   rotate: false
-  xy: 292, 1522
+  xy: 796, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-TopLeft
   rotate: false
-  xy: 292, 1522
+  xy: 796, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-TopLeft
   rotate: false
-  xy: 292, 1522
+  xy: 796, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopLeft
   rotate: false
-  xy: 292, 1522
+  xy: 796, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-TopLeft
   rotate: false
-  xy: 292, 1522
+  xy: 796, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Desert/Fresh-Desert-Lakes-TopRight
   rotate: false
-  xy: 364, 1586
+  xy: 292, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Grassland/Fresh-Grassland-Lakes-TopRight
   rotate: false
-  xy: 364, 1586
+  xy: 292, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Plains/Fresh-Plains-Lakes-TopRight
   rotate: false
-  xy: 364, 1586
+  xy: 292, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Snow/Fresh-Snow-Lakes-TopRight
   rotate: false
-  xy: 364, 1586
+  xy: 292, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Tundra/Fresh-Tundra-Lakes-TopRight
   rotate: false
-  xy: 364, 1586
+  xy: 292, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-Bottom
   rotate: false
-  xy: 436, 1654
+  xy: 364, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-Bottom
   rotate: false
-  xy: 436, 1654
+  xy: 364, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-Bottom
   rotate: false
-  xy: 436, 1654
+  xy: 364, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-Bottom
   rotate: false
-  xy: 436, 1654
+  xy: 364, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-Bottom
   rotate: false
-  xy: 436, 1654
+  xy: 364, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-Bottom
   rotate: false
-  xy: 436, 1654
+  xy: 364, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-BottomLeft
   rotate: false
-  xy: 508, 1718
+  xy: 436, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-BottomLeft
   rotate: false
-  xy: 508, 1718
+  xy: 436, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-BottomLeft
   rotate: false
-  xy: 508, 1718
+  xy: 436, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-BottomLeft
   rotate: false
-  xy: 508, 1718
+  xy: 436, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-BottomLeft
   rotate: false
-  xy: 508, 1718
+  xy: 436, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-BottomLeft
   rotate: false
-  xy: 508, 1718
+  xy: 436, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-BottomRight
   rotate: false
-  xy: 580, 1782
+  xy: 508, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-BottomRight
   rotate: false
-  xy: 580, 1782
+  xy: 508, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-BottomRight
   rotate: false
-  xy: 580, 1782
+  xy: 508, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-BottomRight
   rotate: false
-  xy: 580, 1782
+  xy: 508, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-BottomRight
   rotate: false
-  xy: 580, 1782
+  xy: 508, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-BottomRight
   rotate: false
-  xy: 580, 1782
+  xy: 508, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-Top
   rotate: false
-  xy: 652, 1846
+  xy: 580, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-Top
   rotate: false
-  xy: 652, 1846
+  xy: 580, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-Top
   rotate: false
-  xy: 652, 1846
+  xy: 580, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-Top
   rotate: false
-  xy: 652, 1846
+  xy: 580, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-Top
   rotate: false
-  xy: 652, 1846
+  xy: 580, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-Top
   rotate: false
-  xy: 652, 1846
+  xy: 580, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-TopLeft
   rotate: false
-  xy: 796, 1910
+  xy: 652, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-TopLeft
   rotate: false
-  xy: 796, 1910
+  xy: 652, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-TopLeft
   rotate: false
-  xy: 796, 1910
+  xy: 652, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-TopLeft
   rotate: false
-  xy: 796, 1910
+  xy: 652, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-TopLeft
   rotate: false
-  xy: 796, 1910
+  xy: 652, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-TopLeft
   rotate: false
-  xy: 796, 1910
+  xy: 652, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Desert-TopRight
   rotate: false
-  xy: 292, 1458
+  xy: 724, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Grassland-TopRight
   rotate: false
-  xy: 292, 1458
+  xy: 724, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Mountain-TopRight
   rotate: false
-  xy: 292, 1458
+  xy: 724, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Plains-TopRight
   rotate: false
-  xy: 292, 1458
+  xy: 724, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Snow-TopRight
   rotate: false
-  xy: 292, 1458
+  xy: 724, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Edges/Fresh-Lakes/Fresh-Lakes-Tundra-TopRight
   rotate: false
-  xy: 292, 1458
+  xy: 724, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Academy
   rotate: false
-  xy: 4, 1877
+  xy: 4, 1861
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Academy-Atomic era
   rotate: false
-  xy: 107, 1966
+  xy: 107, 1950
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Academy-Future era
   rotate: false
-  xy: 107, 1966
+  xy: 107, 1950
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Academy-Information era
   rotate: false
-  xy: 107, 1966
+  xy: 107, 1950
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Academy-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/AcademyT-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Customs house-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Customs houseT-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Holy site-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Holy siteT-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Manufactory-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ManufactoryT-Pillaged
   rotate: false
-  xy: 4, 1805
+  xy: 4, 1789
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/AcademyT
   rotate: false
-  xy: 179, 1966
+  xy: 179, 1950
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/AcademyT-Atomic era
   rotate: false
-  xy: 4, 1733
+  xy: 4, 1717
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/AcademyT-Future era
   rotate: false
-  xy: 4, 1733
+  xy: 4, 1717
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/AcademyT-Information era
   rotate: false
-  xy: 4, 1733
+  xy: 4, 1717
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Aluminum
   rotate: false
-  xy: 251, 1974
+  xy: 251, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ancient ruins
   rotate: false
-  xy: 4, 1596
+  xy: 4, 1580
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Atoll
   rotate: false
-  xy: 539, 1974
+  xy: 539, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Bananas
   rotate: false
-  xy: 611, 1974
+  xy: 611, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Bananas+Plantation
   rotate: false
-  xy: 4, 1276
+  xy: 4, 1260
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Bananas+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Citrus+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cotton+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Dyes+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Incense+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Silk+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Spices+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sugar+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Wine+Plantation-Pillaged
   rotate: false
-  xy: 4, 1208
+  xy: 4, 1192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Barbarian encampment
   rotate: false
-  xy: 683, 1974
+  xy: 683, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Barbarian encampmentT
   rotate: false
-  xy: 4, 1144
+  xy: 4, 1128
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Barringer Crater
   rotate: false
-  xy: 755, 1974
+  xy: 755, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Camp
   rotate: false
-  xy: 1259, 1974
+  xy: 1691, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Camp-Industrial era
   rotate: false
-  xy: 4, 545
+  xy: 4, 145
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Camp-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer+Camp-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer+CampT-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Furs+Camp-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FursT+Camp-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles+Camp-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles+CampT-Pillaged
   rotate: false
-  xy: 4, 477
+  xy: 4, 77
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cattle
   rotate: false
-  xy: 4, 213
+  xy: 76, 1733
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/CattleP
   rotate: false
-  xy: 4, 213
+  xy: 76, 1733
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cattle+Pasture
   rotate: false
-  xy: 1619, 1974
+  xy: 76, 1669
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cattle+Pasture-Industrial era
   rotate: false
-  xy: 4, 149
+  xy: 76, 1605
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cattle+Pasture-Pillaged
   rotate: false
-  xy: 4, 77
+  xy: 76, 1533
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Horses+Pasture-Pillaged
   rotate: false
-  xy: 4, 77
+  xy: 76, 1533
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Pasture-Pillaged
   rotate: false
-  xy: 4, 77
+  xy: 76, 1533
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sheep+Pasture-Pillaged
   rotate: false
-  xy: 4, 77
+  xy: 76, 1533
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/CattleG
   rotate: false
-  xy: 1691, 1974
+  xy: 76, 1469
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cerro de Potosi
   rotate: false
-  xy: 1763, 1974
+  xy: 76, 1332
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Citadel
   rotate: false
-  xy: 1979, 1966
+  xy: 76, 1132
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Citadel-Atomic era
   rotate: false
-  xy: 76, 1877
+  xy: 76, 1060
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Citadel-Pillaged
   rotate: false
-  xy: 76, 1805
+  xy: 76, 988
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/CitadelT
   rotate: false
-  xy: 76, 1733
+  xy: 76, 916
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/CitadelT-Atomic era
   rotate: false
-  xy: 76, 1661
+  xy: 76, 844
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/CitadelT-Pillaged
   rotate: false
-  xy: 76, 1589
+  xy: 76, 772
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Citrus
   rotate: false
-  xy: 76, 1525
+  xy: 76, 708
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Citrus+Plantation
   rotate: false
-  xy: 76, 1461
+  xy: 76, 644
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center
   rotate: false
-  xy: 76, 1389
+  xy: 76, 572
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Classical era
   rotate: false
-  xy: 76, 1389
+  xy: 76, 572
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Ancient era
   rotate: false
-  xy: 76, 1317
+  xy: 76, 500
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Atomic era
   rotate: false
-  xy: 76, 1236
+  xy: 76, 419
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Future era
   rotate: false
-  xy: 76, 1151
+  xy: 76, 334
   size: 64, 77
   orig: 64, 77
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Industrial era
   rotate: false
-  xy: 76, 1073
+  xy: 76, 256
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Information era
   rotate: false
-  xy: 76, 992
+  xy: 76, 175
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Medieval era
   rotate: false
-  xy: 76, 918
+  xy: 76, 101
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Modern era
   rotate: false
-  xy: 76, 840
+  xy: 76, 23
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City center-Renaissance era
   rotate: false
-  xy: 76, 766
+  xy: 148, 1876
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/City ruins
   rotate: false
-  xy: 76, 694
+  xy: 148, 1804
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Coal
   rotate: false
-  xy: 76, 566
+  xy: 148, 1676
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Coast
   rotate: false
-  xy: 76, 502
+  xy: 148, 1612
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Copper
   rotate: false
-  xy: 76, 151
+  xy: 148, 1261
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cotton
   rotate: false
-  xy: 76, 14
+  xy: 148, 1124
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Cotton+Plantation
   rotate: false
-  xy: 148, 1902
+  xy: 148, 1060
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Crab
   rotate: false
-  xy: 148, 1838
+  xy: 148, 996
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Customs house
   rotate: false
-  xy: 148, 1702
+  xy: 148, 860
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Customs house-Atomic era
   rotate: false
-  xy: 148, 1630
+  xy: 148, 788
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Customs houseT
   rotate: false
-  xy: 148, 1558
+  xy: 148, 716
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Customs houseT-Atomic era
   rotate: false
-  xy: 148, 1486
+  xy: 148, 644
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer
   rotate: false
-  xy: 148, 1422
+  xy: 148, 580
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer+Camp
   rotate: false
-  xy: 148, 1358
+  xy: 148, 516
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer+Camp-Industrial era
   rotate: false
-  xy: 148, 1294
+  xy: 148, 452
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer+CampT
   rotate: false
-  xy: 148, 1230
+  xy: 148, 388
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Deer+CampT-Industrial era
   rotate: false
-  xy: 148, 1166
+  xy: 148, 324
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert
   rotate: false
-  xy: 148, 1102
+  xy: 148, 260
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert+Hill
   rotate: false
-  xy: 148, 910
+  xy: 148, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert+Hill+Fallout
   rotate: false
-  xy: 148, 782
+  xy: 220, 1886
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert+Hill+Fallout2
   rotate: false
-  xy: 148, 718
+  xy: 220, 1822
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert+Hill2
   rotate: false
-  xy: 148, 846
+  xy: 148, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert2
   rotate: false
-  xy: 148, 1038
+  xy: 148, 196
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Desert3
   rotate: false
-  xy: 148, 974
+  xy: 148, 132
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Dyes
   rotate: false
-  xy: 148, 526
+  xy: 220, 1630
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Dyes+Plantation
   rotate: false
-  xy: 148, 462
+  xy: 220, 1566
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/El Dorado
   rotate: false
-  xy: 148, 398
+  xy: 220, 1502
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fallout
   rotate: false
-  xy: 220, 1702
+  xy: 220, 854
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Farm
   rotate: false
-  xy: 220, 1638
+  xy: 220, 790
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Farm+Wheat
   rotate: false
-  xy: 220, 1574
+  xy: 220, 726
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Farm-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmD-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmG-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmP-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmS-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmT-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Wheat+Farm-Pillaged
   rotate: false
-  xy: 220, 1506
+  xy: 220, 658
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmD
   rotate: false
-  xy: 220, 1442
+  xy: 220, 594
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmDH
   rotate: false
-  xy: 220, 1378
+  xy: 220, 530
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmDH-Pillaged
   rotate: false
-  xy: 220, 1310
+  xy: 220, 462
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmGH-Pillaged
   rotate: false
-  xy: 220, 1310
+  xy: 220, 462
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmPH-Pillaged
   rotate: false
-  xy: 220, 1310
+  xy: 220, 462
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmSH-Pillaged
   rotate: false
-  xy: 220, 1310
+  xy: 220, 462
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmTH-Pillaged
   rotate: false
-  xy: 220, 1310
+  xy: 220, 462
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmG
   rotate: false
-  xy: 220, 1246
+  xy: 220, 398
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmGH
   rotate: false
-  xy: 220, 1182
+  xy: 220, 334
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmP
   rotate: false
-  xy: 220, 1118
+  xy: 220, 270
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmPH
   rotate: false
-  xy: 220, 1054
+  xy: 220, 206
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmS
   rotate: false
-  xy: 220, 990
+  xy: 220, 142
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmSH
   rotate: false
-  xy: 220, 926
+  xy: 220, 78
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmT
   rotate: false
-  xy: 220, 862
+  xy: 220, 14
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FarmTH
   rotate: false
-  xy: 220, 798
+  xy: 292, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fish
   rotate: false
-  xy: 220, 734
+  xy: 292, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fishing Boats
   rotate: false
-  xy: 220, 670
+  xy: 364, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fishing Boats-Industrial era
   rotate: false
-  xy: 220, 606
+  xy: 292, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Flood plains
   rotate: false
-  xy: 220, 542
+  xy: 364, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestG
   rotate: false
-  xy: 220, 414
+  xy: 292, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestGH
   rotate: false
-  xy: 220, 350
+  xy: 364, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestGHLow
   rotate: false
-  xy: 220, 286
+  xy: 436, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestGHUp
   rotate: false
-  xy: 220, 222
+  xy: 508, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestGLow
   rotate: false
-  xy: 220, 158
+  xy: 292, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestGUp
   rotate: false
-  xy: 220, 94
+  xy: 364, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestP
   rotate: false
-  xy: 220, 30
+  xy: 436, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestPH
   rotate: false
-  xy: 292, 1910
+  xy: 508, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestPHLow
   rotate: false
-  xy: 364, 1910
+  xy: 580, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestPHUp
   rotate: false
-  xy: 292, 1846
+  xy: 292, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestPLow
   rotate: false
-  xy: 436, 1910
+  xy: 364, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestPUp
   rotate: false
-  xy: 292, 1782
+  xy: 436, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestT
   rotate: false
-  xy: 364, 1846
+  xy: 508, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestTH
   rotate: false
-  xy: 508, 1910
+  xy: 580, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestTLow
   rotate: false
-  xy: 292, 1718
+  xy: 652, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ForestTUp
   rotate: false
-  xy: 364, 1782
+  xy: 292, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fort
   rotate: false
-  xy: 436, 1846
+  xy: 364, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fort-Atomic era
   rotate: false
-  xy: 580, 1910
+  xy: 436, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fort-Industrial era
   rotate: false
-  xy: 292, 1654
+  xy: 508, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fort-Pillaged
   rotate: false
-  xy: 364, 1714
+  xy: 580, 1762
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FortT
   rotate: false
-  xy: 436, 1782
+  xy: 652, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FortT-Atomic era
   rotate: false
-  xy: 508, 1846
+  xy: 724, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FortT-Industrial era
   rotate: false
-  xy: 652, 1910
+  xy: 292, 1446
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FortT-Pillaged
   rotate: false
-  xy: 292, 1586
+  xy: 364, 1506
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Fountain of Youth
   rotate: false
-  xy: 364, 1650
+  xy: 436, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Furs
   rotate: false
-  xy: 436, 1590
+  xy: 868, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Furs+Camp
   rotate: false
-  xy: 508, 1654
+  xy: 292, 1318
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Furs+Camp-Industrial era
   rotate: false
-  xy: 580, 1718
+  xy: 364, 1378
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FursT
   rotate: false
-  xy: 652, 1782
+  xy: 436, 1446
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FursT+Camp
   rotate: false
-  xy: 724, 1846
+  xy: 508, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/FursT+Camp-Industrial era
   rotate: false
-  xy: 868, 1910
+  xy: 580, 1570
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Gems
   rotate: false
-  xy: 580, 1654
+  xy: 940, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Gold Ore
   rotate: false
-  xy: 724, 1782
+  xy: 364, 1314
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grand Mesa
   rotate: false
-  xy: 796, 1846
+  xy: 436, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland
   rotate: false
-  xy: 940, 1910
+  xy: 508, 1446
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland+Hill
   rotate: false
-  xy: 436, 1462
+  xy: 724, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland+Hill+Fallout
   rotate: false
-  xy: 580, 1590
+  xy: 868, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland+Hill+Fallout2
   rotate: false
-  xy: 652, 1646
+  xy: 940, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland+Hill2
   rotate: false
-  xy: 508, 1526
+  xy: 796, 1694
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland2
   rotate: false
-  xy: 292, 1330
+  xy: 580, 1506
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Grassland3
   rotate: false
-  xy: 364, 1386
+  xy: 652, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Great Barrier Reef
   rotate: false
-  xy: 868, 1846
+  xy: 364, 1250
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Hill
   rotate: false
-  xy: 364, 1258
+  xy: 508, 1318
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Holy site
   rotate: false
-  xy: 436, 1317
+  xy: 580, 1370
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Holy siteT
   rotate: false
-  xy: 508, 1381
+  xy: 652, 1429
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Horses
   rotate: false
-  xy: 796, 1654
+  xy: 940, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Horses+Pasture
   rotate: false
-  xy: 868, 1718
+  xy: 1012, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Horses+Pasture-Industrial era
   rotate: false
-  xy: 940, 1782
+  xy: 1084, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm
   rotate: false
-  xy: 292, 1130
+  xy: 292, 1054
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm-Atomic era
   rotate: false
-  xy: 436, 1253
+  xy: 508, 1254
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm-Atomic era2
   rotate: false
-  xy: 508, 1317
+  xy: 580, 1306
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm-Industrial era
   rotate: false
-  xy: 580, 1398
+  xy: 652, 1365
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm-Industrial era2
   rotate: false
-  xy: 652, 1447
+  xy: 724, 1437
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm2
   rotate: false
-  xy: 1156, 1910
+  xy: 364, 1114
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm3
   rotate: false
-  xy: 364, 1194
+  xy: 436, 1190
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm-Atomic era3
   rotate: false
-  xy: 364, 1194
+  xy: 436, 1190
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarm-Industrial era3
   rotate: false
-  xy: 364, 1194
+  xy: 436, 1190
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT3
   rotate: false
-  xy: 364, 1194
+  xy: 436, 1190
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT
   rotate: false
-  xy: 724, 1519
+  xy: 796, 1495
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT-Atomic era
   rotate: false
-  xy: 868, 1654
+  xy: 940, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT-Atomic era2
   rotate: false
-  xy: 940, 1718
+  xy: 1012, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT-Industrial era
   rotate: false
-  xy: 1012, 1773
+  xy: 1084, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT-Industrial era2
   rotate: false
-  xy: 1084, 1846
+  xy: 1156, 1821
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/HutFarmT2
   rotate: false
-  xy: 796, 1590
+  xy: 868, 1567
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ice
   rotate: false
-  xy: 1228, 1910
+  xy: 292, 990
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Incense
   rotate: false
-  xy: 436, 1189
+  xy: 436, 1126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Incense+Plantation
   rotate: false
-  xy: 508, 1253
+  xy: 508, 1190
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Iron
   rotate: false
-  xy: 724, 1455
+  xy: 724, 1373
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ivory
   rotate: false
-  xy: 868, 1590
+  xy: 868, 1503
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ivory+Camp
   rotate: false
-  xy: 940, 1654
+  xy: 940, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ivory+Camp-Industrial era
   rotate: false
-  xy: 1012, 1709
+  xy: 1012, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ivory+Camp-Pillaged
   rotate: false
-  xy: 1084, 1778
+  xy: 1084, 1698
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/JungleG
   rotate: false
-  xy: 1300, 1910
+  xy: 1300, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/JungleGLow
   rotate: false
-  xy: 364, 1066
+  xy: 292, 926
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/JungleGUp
   rotate: false
-  xy: 436, 1125
+  xy: 364, 986
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/JungleP
   rotate: false
-  xy: 508, 1189
+  xy: 436, 1062
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/JunglePLow
   rotate: false
-  xy: 580, 1270
+  xy: 508, 1126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/JunglePUp
   rotate: false
-  xy: 652, 1319
+  xy: 580, 1178
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Krakatoa
   rotate: false
-  xy: 1012, 1645
+  xy: 940, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lakes
   rotate: false
-  xy: 1156, 1782
+  xy: 1084, 1634
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Landmark
   rotate: false
-  xy: 364, 994
+  xy: 1300, 1822
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Landmark-Pillaged
   rotate: false
-  xy: 436, 1053
+  xy: 1372, 1886
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/LandmarkT-Pillaged
   rotate: false
-  xy: 436, 1053
+  xy: 1372, 1886
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/LandmarkT
   rotate: false
-  xy: 508, 1117
+  xy: 292, 854
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lumber mill
   rotate: false
-  xy: 868, 1453
+  xy: 724, 1235
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lumber mill-Industrial era
   rotate: false
-  xy: 940, 1516
+  xy: 796, 1294
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lumber mill-Pillaged
   rotate: false
-  xy: 1012, 1577
+  xy: 868, 1361
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lumber millT-Pillaged
   rotate: false
-  xy: 1012, 1577
+  xy: 868, 1361
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lumber millT
   rotate: false
-  xy: 1084, 1650
+  xy: 940, 1446
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Lumber millT-Industrial era
   rotate: false
-  xy: 1156, 1718
+  xy: 1012, 1510
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Manufactory
   rotate: false
-  xy: 292, 866
+  xy: 1228, 1694
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Manufactory-Atomic era
   rotate: false
-  xy: 364, 922
+  xy: 1300, 1750
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Manufactory-Industrial era
   rotate: false
-  xy: 436, 981
+  xy: 1372, 1814
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ManufactoryT
   rotate: false
-  xy: 508, 1045
+  xy: 1444, 1886
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ManufactoryT-Atomic era
   rotate: false
-  xy: 580, 1130
+  xy: 292, 782
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/ManufactoryT-Industrial era
   rotate: false
-  xy: 652, 1183
+  xy: 364, 850
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble
   rotate: false
-  xy: 796, 1324
+  xy: 580, 1050
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble+Quarry
   rotate: false
-  xy: 868, 1389
+  xy: 652, 1100
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble+Quarry-Industrial era
   rotate: false
-  xy: 940, 1452
+  xy: 724, 1171
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble+Quarry-Pillaged
   rotate: false
-  xy: 1012, 1505
+  xy: 796, 1222
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble+QuarryT-Pillaged
   rotate: false
-  xy: 1012, 1505
+  xy: 796, 1222
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble+QuarryT
   rotate: false
-  xy: 1084, 1586
+  xy: 868, 1297
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marble+QuarryT-Industrial era
   rotate: false
-  xy: 1156, 1654
+  xy: 940, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Marsh
   rotate: false
-  xy: 1300, 1775
+  xy: 1084, 1506
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mine
   rotate: false
-  xy: 364, 858
+  xy: 1300, 1686
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mine-Industrial era
   rotate: false
-  xy: 436, 917
+  xy: 1372, 1750
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mine-Pillaged
   rotate: false
-  xy: 508, 973
+  xy: 1444, 1814
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/MineT
   rotate: false
-  xy: 580, 1066
+  xy: 1516, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/MineT-Industrial era
   rotate: false
-  xy: 652, 1119
+  xy: 292, 718
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/MineT-Pillaged
   rotate: false
-  xy: 724, 1182
+  xy: 364, 778
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Moai
   rotate: false
-  xy: 940, 1388
+  xy: 652, 1036
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Moai-Pillaged
   rotate: false
-  xy: 1012, 1437
+  xy: 724, 1103
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mount Fuji
   rotate: false
-  xy: 1300, 1711
+  xy: 1012, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mount Kailash
   rotate: false
-  xy: 1372, 1780
+  xy: 1084, 1440
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mount Sinai
   rotate: false
-  xy: 1444, 1844
+  xy: 1156, 1483
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mountain
   rotate: false
-  xy: 292, 730
+  xy: 1228, 1558
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mountain-1
   rotate: false
-  xy: 292, 730
+  xy: 1228, 1558
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Mountain2
   rotate: false
-  xy: 364, 786
+  xy: 1300, 1614
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oasis
   rotate: false
-  xy: 796, 1196
+  xy: 436, 802
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Ocean
   rotate: false
-  xy: 868, 1261
+  xy: 508, 870
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Offshore Platform
   rotate: false
-  xy: 940, 1324
+  xy: 580, 922
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oil+Offshore Platform
   rotate: false
-  xy: 940, 1324
+  xy: 580, 922
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oil
   rotate: false
-  xy: 1012, 1373
+  xy: 652, 972
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oil well
   rotate: false
-  xy: 1084, 1457
+  xy: 724, 1038
   size: 64, 57
   orig: 64, 57
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oil+Oil well
   rotate: false
-  xy: 1084, 1457
+  xy: 724, 1038
   size: 64, 57
   orig: 64, 57
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oil well-Pillaged
   rotate: false
-  xy: 1156, 1522
+  xy: 796, 1090
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Oil+Oil well-Pillaged
   rotate: false
-  xy: 1156, 1522
+  xy: 796, 1090
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/OilS
   rotate: false
-  xy: 1228, 1581
+  xy: 868, 1169
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Old Faithful
   rotate: false
-  xy: 1300, 1647
+  xy: 940, 1254
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Pasture
   rotate: false
-  xy: 1516, 1846
+  xy: 1156, 1419
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Pasture-Industrial era
   rotate: false
-  xy: 292, 666
+  xy: 1228, 1494
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Pearls
   rotate: false
-  xy: 436, 789
+  xy: 1372, 1622
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains
   rotate: false
-  xy: 724, 1054
+  xy: 1660, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains+Hill
   rotate: false
-  xy: 868, 1197
+  xy: 436, 738
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains+Hill+Fallout
   rotate: false
-  xy: 1012, 1309
+  xy: 580, 858
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains+Hill+Fallout2
   rotate: false
-  xy: 1084, 1393
+  xy: 652, 908
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains+Hill2
   rotate: false
-  xy: 940, 1260
+  xy: 508, 806
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains2
   rotate: false
-  xy: 1660, 1910
+  xy: 292, 590
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plains3
   rotate: false
-  xy: 796, 1132
+  xy: 364, 650
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Plantation
   rotate: false
-  xy: 1156, 1458
+  xy: 724, 974
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Polder
   rotate: false
-  xy: 1228, 1517
+  xy: 796, 1026
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Polder-Industrial era
   rotate: false
-  xy: 1300, 1583
+  xy: 868, 1105
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Polder-Pillaged
   rotate: false
-  xy: 1372, 1644
+  xy: 940, 1182
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Quarry
   rotate: false
-  xy: 1588, 1846
+  xy: 1156, 1355
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Quarry-Industrial era
   rotate: false
-  xy: 292, 602
+  xy: 1228, 1430
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Quarry-Pillaged
   rotate: false
-  xy: 364, 650
+  xy: 1300, 1478
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/QuarryT-Pillaged
   rotate: false
-  xy: 364, 650
+  xy: 1300, 1478
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/QuarryT
   rotate: false
-  xy: 436, 725
+  xy: 1372, 1558
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/QuarryT-Industrial era
   rotate: false
-  xy: 508, 781
+  xy: 1444, 1622
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Railroad-Pillaged
   rotate: false
-  xy: 652, 915
+  xy: 1588, 1754
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Road-Pillaged
   rotate: false
-  xy: 652, 915
+  xy: 1588, 1754
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/River-Bottom
   rotate: false
-  xy: 1732, 1910
+  xy: 1732, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/River-BottomLeft
   rotate: false
-  xy: 796, 1068
+  xy: 292, 526
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/River-BottomRight
   rotate: false
-  xy: 868, 1133
+  xy: 364, 586
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Rock of Gibraltar
   rotate: false
-  xy: 940, 1196
+  xy: 436, 674
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/RuinsD
   rotate: false
-  xy: 1084, 1329
+  xy: 580, 794
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/RuinsG
   rotate: false
-  xy: 1156, 1394
+  xy: 652, 844
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/RuinsT
   rotate: false
-  xy: 1228, 1453
+  xy: 724, 910
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Salt
   rotate: false
-  xy: 1372, 1580
+  xy: 868, 1041
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sheep
   rotate: false
-  xy: 364, 586
+  xy: 1300, 1414
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sheep+Pasture
   rotate: false
-  xy: 436, 661
+  xy: 1372, 1494
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sheep+Pasture-Industrial era
   rotate: false
-  xy: 508, 717
+  xy: 1444, 1558
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Silk
   rotate: false
-  xy: 724, 926
+  xy: 1660, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Silk+Plantation
   rotate: false
-  xy: 1804, 1910
+  xy: 1732, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Silver
   rotate: false
-  xy: 796, 1004
+  xy: 1804, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow
   rotate: false
-  xy: 1084, 1265
+  xy: 508, 678
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow+Hill
   rotate: false
-  xy: 1300, 1455
+  xy: 724, 846
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow+Hill+Fallout
   rotate: false
-  xy: 1444, 1586
+  xy: 868, 977
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow+Hill+Fallout2
   rotate: false
-  xy: 1516, 1654
+  xy: 940, 1052
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow+Hill2
   rotate: false
-  xy: 1372, 1516
+  xy: 796, 898
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow2
   rotate: false
-  xy: 1156, 1330
+  xy: 580, 730
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Snow3
   rotate: false
-  xy: 1228, 1389
+  xy: 652, 780
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Spices
   rotate: false
-  xy: 1660, 1782
+  xy: 1084, 1184
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Spices+Plantation
   rotate: false
-  xy: 1732, 1846
+  xy: 1156, 1227
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sri Pada
   rotate: false
-  xy: 292, 470
+  xy: 1228, 1298
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone
   rotate: false
-  xy: 364, 522
+  xy: 1300, 1350
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone+Quarry
   rotate: false
-  xy: 436, 597
+  xy: 1372, 1430
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone+Quarry-Industrial era
   rotate: false
-  xy: 508, 653
+  xy: 1444, 1494
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone+Quarry-Pillaged
   rotate: false
-  xy: 580, 721
+  xy: 1516, 1549
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone+QuarryT-Pillaged
   rotate: false
-  xy: 580, 721
+  xy: 1516, 1549
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone+QuarryT
   rotate: false
-  xy: 652, 779
+  xy: 1588, 1618
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Stone+QuarryT-Industrial era
   rotate: false
-  xy: 724, 862
+  xy: 1660, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/StoneD
   rotate: false
-  xy: 1876, 1910
+  xy: 1732, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/StoneD+Quarry
   rotate: false
-  xy: 796, 940
+  xy: 1804, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/StoneD+Quarry-Industrial era
   rotate: false
-  xy: 868, 994
+  xy: 1876, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/StoneD+Quarry-Pillaged
   rotate: false
-  xy: 940, 1060
+  xy: 292, 379
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sugar
   rotate: false
-  xy: 1084, 1201
+  xy: 436, 546
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Sugar+Plantation
   rotate: false
-  xy: 1156, 1258
+  xy: 508, 606
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Terrace farm
   rotate: false
-  xy: 1444, 1522
+  xy: 796, 834
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Trading post
   rotate: false
-  xy: 1516, 1590
+  xy: 868, 913
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Trading post-Industrial era
   rotate: false
-  xy: 1588, 1654
+  xy: 940, 988
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Trading post-Pillaged
   rotate: false
-  xy: 1660, 1710
+  xy: 1012, 1054
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Trading postT-Pillaged
   rotate: false
-  xy: 1660, 1710
+  xy: 1012, 1054
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Trading postT
   rotate: false
-  xy: 1732, 1782
+  xy: 1084, 1120
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Trading postT-Industrial era
   rotate: false
-  xy: 1804, 1846
+  xy: 1156, 1163
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles
   rotate: false
-  xy: 436, 533
+  xy: 1372, 1366
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles+Camp
   rotate: false
-  xy: 508, 589
+  xy: 1444, 1430
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles+Camp-Industrial era
   rotate: false
-  xy: 580, 657
+  xy: 1516, 1485
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles+CampT
   rotate: false
-  xy: 652, 715
+  xy: 1588, 1554
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Truffles+CampT-Industrial era
   rotate: false
-  xy: 724, 798
+  xy: 1660, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra
   rotate: false
-  xy: 796, 876
+  xy: 1732, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra+Hill
   rotate: false
-  xy: 1012, 1053
+  xy: 1948, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra+Hill+Fallout
   rotate: false
-  xy: 1156, 1194
+  xy: 364, 394
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra+Hill+Fallout2
   rotate: false
-  xy: 1228, 1261
+  xy: 436, 482
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra+Hill2
   rotate: false
-  xy: 1084, 1137
+  xy: 292, 315
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra2
   rotate: false
-  xy: 868, 930
+  xy: 1804, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Tundra3
   rotate: false
-  xy: 940, 996
+  xy: 1876, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Uluru
   rotate: false
-  xy: 1372, 1388
+  xy: 580, 602
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Uranium
   rotate: false
-  xy: 1444, 1458
+  xy: 652, 652
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Whales
   rotate: false
-  xy: 1732, 1718
+  xy: 940, 924
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Whales+Fishing Boats
   rotate: false
-  xy: 1804, 1782
+  xy: 1012, 990
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Whales+Fishing Boats-Industrial era
   rotate: false
-  xy: 1876, 1846
+  xy: 1084, 1056
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Wheat
   rotate: false
-  xy: 292, 342
+  xy: 1156, 1099
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Wine
   rotate: false
-  xy: 364, 394
+  xy: 1228, 1170
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Tiles/Wine+Plantation
   rotate: false
-  xy: 436, 469
+  xy: 1300, 1222
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/African Forest Elephant
   rotate: false
-  xy: 4, 1660
+  xy: 4, 1644
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Anti-Aircraft Gun
   rotate: false
-  xy: 323, 1974
+  xy: 323, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Anti-Tank Gun
   rotate: false
-  xy: 4, 1532
+  xy: 4, 1516
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Archer
   rotate: false
-  xy: 395, 1974
+  xy: 395, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Artillery
   rotate: false
-  xy: 4, 1468
+  xy: 4, 1452
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Artillery-Atomic era
   rotate: false
-  xy: 467, 1974
+  xy: 467, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Atlatlist
   rotate: false
-  xy: 4, 1404
+  xy: 4, 1388
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Ballista
   rotate: false
-  xy: 4, 1340
+  xy: 4, 1324
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Battering Ram
   rotate: false
-  xy: 4, 1080
+  xy: 4, 1064
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Battleship
   rotate: false
-  xy: 827, 1974
+  xy: 827, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Bazooka
   rotate: false
-  xy: 4, 1016
+  xy: 4, 1000
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Berber Cavalry
   rotate: false
-  xy: 4, 751
+  xy: 4, 351
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Berserker
   rotate: false
-  xy: 1115, 1974
+  xy: 1547, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Bowman
   rotate: false
-  xy: 4, 687
+  xy: 4, 287
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Brute
   rotate: false
-  xy: 1187, 1974
+  xy: 1619, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Camel Archer
   rotate: false
-  xy: 4, 609
+  xy: 4, 209
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Cannon
   rotate: false
-  xy: 1331, 1974
+  xy: 1763, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Caravel
   rotate: false
-  xy: 4, 413
+  xy: 4, 13
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Carolean
   rotate: false
-  xy: 1403, 1974
+  xy: 1835, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Carrier
   rotate: false
-  xy: 4, 349
+  xy: 1907, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Carrier-Information era
   rotate: false
-  xy: 1475, 1974
+  xy: 1979, 1958
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Cataphract
   rotate: false
-  xy: 4, 277
+  xy: 76, 1861
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Catapult
   rotate: false
-  xy: 1547, 1974
+  xy: 76, 1797
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Cavalry
   rotate: false
-  xy: 4, 4
+  xy: 76, 1396
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Chariot Archer
   rotate: false
-  xy: 1835, 1974
+  xy: 76, 1268
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Chariot Archer-Barbarians
   rotate: false
-  xy: 4, 1949
+  xy: 4, 1933
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Chu-Ko-Nu
   rotate: false
-  xy: 1907, 1974
+  xy: 76, 1204
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/CivilianLandUnit
   rotate: false
-  xy: 76, 630
+  xy: 148, 1740
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Worker
   rotate: false
-  xy: 76, 630
+  xy: 148, 1740
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Comanche Riders
   rotate: false
-  xy: 76, 429
+  xy: 148, 1539
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Companion Cavalry
   rotate: false
-  xy: 76, 354
+  xy: 148, 1464
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Composite Bowman
   rotate: false
-  xy: 76, 290
+  xy: 148, 1400
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Conquistador
   rotate: false
-  xy: 76, 215
+  xy: 148, 1325
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Cossack
   rotate: false
-  xy: 76, 78
+  xy: 148, 1188
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Crossbowman
   rotate: false
-  xy: 148, 1774
+  xy: 148, 932
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Destroyer
   rotate: false
-  xy: 148, 654
+  xy: 220, 1758
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Dromon
   rotate: false
-  xy: 148, 590
+  xy: 220, 1694
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Civilian
   rotate: false
-  xy: 148, 334
+  xy: 220, 1438
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Civilian-Modern era
   rotate: false
-  xy: 148, 270
+  xy: 220, 1374
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Civilian-Renaissance era
   rotate: false
-  xy: 148, 206
+  xy: 220, 1310
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Military
   rotate: false
-  xy: 148, 142
+  xy: 220, 1246
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Military-Modern era
   rotate: false
-  xy: 148, 78
+  xy: 220, 1182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Military-Renaissance era
   rotate: false
-  xy: 148, 14
+  xy: 220, 1118
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Settler
   rotate: false
-  xy: 220, 1902
+  xy: 220, 1054
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Settler-Modern era
   rotate: false
-  xy: 220, 1830
+  xy: 220, 982
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/EmbarkedUnit-Settler-Renaissance era
   rotate: false
-  xy: 220, 1766
+  xy: 220, 918
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Foreign Legion
   rotate: false
-  xy: 220, 478
+  xy: 436, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Frigate
   rotate: false
-  xy: 364, 1514
+  xy: 796, 1822
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Future Infantry
   rotate: false
-  xy: 292, 1394
+  xy: 652, 1638
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Galleass
   rotate: false
-  xy: 364, 1450
+  xy: 724, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Galley
   rotate: false
-  xy: 436, 1526
+  xy: 796, 1758
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Gatling Gun
   rotate: false
-  xy: 508, 1590
+  xy: 868, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Giant Death Robot
   rotate: false
-  xy: 652, 1710
+  xy: 292, 1246
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Artist
   rotate: false
-  xy: 724, 1718
+  xy: 1012, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Artist-Modern era
   rotate: false
-  xy: 796, 1782
+  xy: 292, 1182
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Engineer
   rotate: false
-  xy: 1012, 1910
+  xy: 436, 1318
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Engineer-Modern era
   rotate: false
-  xy: 292, 1266
+  xy: 508, 1382
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Galleass
   rotate: false
-  xy: 364, 1322
+  xy: 580, 1442
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great General
   rotate: false
-  xy: 436, 1389
+  xy: 652, 1501
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great General-Modern era
   rotate: false
-  xy: 508, 1453
+  xy: 724, 1565
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Merchant
   rotate: false
-  xy: 580, 1526
+  xy: 796, 1630
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Merchant-Modern era
   rotate: false
-  xy: 652, 1582
+  xy: 868, 1702
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Prophet
   rotate: false
-  xy: 724, 1654
+  xy: 940, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Scientist
   rotate: false
-  xy: 796, 1718
+  xy: 1012, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great Scientist-Modern era
   rotate: false
-  xy: 868, 1782
+  xy: 1084, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Great War Infantry
   rotate: false
-  xy: 940, 1846
+  xy: 292, 1118
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Hakkapeliitta
   rotate: false
-  xy: 292, 1194
+  xy: 364, 1178
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Helicopter Gunship
   rotate: false
-  xy: 1084, 1910
+  xy: 436, 1254
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Hoplite
   rotate: false
-  xy: 580, 1462
+  xy: 724, 1501
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Horse Archer
   rotate: false
-  xy: 652, 1511
+  xy: 796, 1559
   size: 64, 63
   orig: 64, 63
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Horseman
   rotate: false
-  xy: 724, 1583
+  xy: 868, 1631
   size: 64, 63
   orig: 64, 63
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Hussar
   rotate: false
-  xy: 1012, 1837
+  xy: 1156, 1885
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Hwach'a
   rotate: false
-  xy: 292, 1066
+  xy: 1228, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Impi
   rotate: false
-  xy: 364, 1130
+  xy: 364, 1050
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Infantry
   rotate: false
-  xy: 580, 1334
+  xy: 580, 1242
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Inquisitor
   rotate: false
-  xy: 652, 1383
+  xy: 652, 1301
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Ironclad
   rotate: false
-  xy: 796, 1526
+  xy: 796, 1431
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Jaguar
   rotate: false
-  xy: 1156, 1846
+  xy: 1156, 1757
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Janissary
   rotate: false
-  xy: 292, 1002
+  xy: 1228, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Keshik
   rotate: false
-  xy: 724, 1382
+  xy: 652, 1228
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Khan
   rotate: false
-  xy: 796, 1452
+  xy: 724, 1299
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Khan-Modern era
   rotate: false
-  xy: 868, 1517
+  xy: 796, 1358
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Knight
   rotate: false
-  xy: 940, 1580
+  xy: 868, 1429
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Kris Swordsman
   rotate: false
-  xy: 1084, 1714
+  xy: 1012, 1574
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Lancer
   rotate: false
-  xy: 1228, 1837
+  xy: 1156, 1684
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/LandUnit
   rotate: false
-  xy: 292, 938
+  xy: 1228, 1766
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Landship
   rotate: false
-  xy: 1372, 1910
+  xy: 364, 922
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Landsknecht
   rotate: false
-  xy: 580, 1202
+  xy: 436, 994
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Legion
   rotate: false
-  xy: 652, 1255
+  xy: 508, 1062
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Longbowman
   rotate: false
-  xy: 724, 1318
+  xy: 580, 1114
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Longswordsman
   rotate: false
-  xy: 796, 1388
+  xy: 652, 1164
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Machine Gun
   rotate: false
-  xy: 1228, 1773
+  xy: 1084, 1570
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Mandekalu Cavalry
   rotate: false
-  xy: 1300, 1839
+  xy: 1156, 1613
   size: 64, 63
   orig: 64, 63
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Maori Warrior
   rotate: false
-  xy: 1444, 1910
+  xy: 436, 930
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Marauder
   rotate: false
-  xy: 724, 1254
+  xy: 508, 998
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Marine
   rotate: false
-  xy: 1228, 1709
+  xy: 1012, 1446
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Mechanized Infantry
   rotate: false
-  xy: 1372, 1846
+  xy: 1156, 1549
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Mehal Sefari
   rotate: false
-  xy: 292, 802
+  xy: 1228, 1630
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Minuteman
   rotate: false
-  xy: 1516, 1910
+  xy: 436, 866
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Missile Cruiser
   rotate: false
-  xy: 796, 1260
+  xy: 508, 934
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Missionary
   rotate: false
-  xy: 868, 1325
+  xy: 580, 986
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Mobile SAM
   rotate: false
-  xy: 1084, 1522
+  xy: 796, 1158
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Modern Armor
   rotate: false
-  xy: 1156, 1590
+  xy: 868, 1233
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Mohawk Warrior
   rotate: false
-  xy: 1228, 1645
+  xy: 940, 1318
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Musketeer
   rotate: false
-  xy: 436, 853
+  xy: 1372, 1686
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Musketman
   rotate: false
-  xy: 508, 909
+  xy: 1444, 1750
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Naresuan's Elephant
   rotate: false
-  xy: 580, 993
+  xy: 1516, 1821
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Nau
   rotate: false
-  xy: 652, 1055
+  xy: 1588, 1894
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Norwegian Ski Infantry
   rotate: false
-  xy: 724, 1118
+  xy: 292, 654
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Nuclear Submarine
   rotate: false
-  xy: 1588, 1910
+  xy: 364, 714
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Panzer
   rotate: false
-  xy: 1372, 1716
+  xy: 1012, 1318
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Paratrooper
   rotate: false
-  xy: 1444, 1780
+  xy: 1084, 1376
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Pathfinder
   rotate: false
-  xy: 364, 722
+  xy: 1300, 1550
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Persian Immortal
   rotate: false
-  xy: 508, 845
+  xy: 1444, 1686
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Pictish Warrior
   rotate: false
-  xy: 580, 929
+  xy: 1516, 1757
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Pikeman
   rotate: false
-  xy: 652, 987
+  xy: 1588, 1826
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Pracinha
   rotate: false
-  xy: 1444, 1716
+  xy: 1012, 1254
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Privateer
   rotate: false
-  xy: 1516, 1782
+  xy: 1084, 1312
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Quinquereme
   rotate: false
-  xy: 580, 865
+  xy: 1516, 1693
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Rifleman
   rotate: false
-  xy: 724, 990
+  xy: 1660, 1830
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Rocket Artillery
   rotate: false
-  xy: 1012, 1245
+  xy: 508, 742
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/SS Booster
   rotate: false
-  xy: 1300, 1519
+  xy: 796, 962
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/SS Cockpit
   rotate: false
-  xy: 1300, 1519
+  xy: 796, 962
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/SS Engine
   rotate: false
-  xy: 1300, 1519
+  xy: 796, 962
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/SS Stasis Chamber
   rotate: false
-  xy: 1300, 1519
+  xy: 796, 962
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Samurai
   rotate: false
-  xy: 1444, 1650
+  xy: 940, 1116
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Scout
   rotate: false
-  xy: 1516, 1718
+  xy: 1012, 1190
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Sea Beggar
   rotate: false
-  xy: 1588, 1782
+  xy: 1084, 1248
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Settler
   rotate: false
-  xy: 1660, 1846
+  xy: 1156, 1291
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Settler-Modern era
   rotate: false
-  xy: 292, 538
+  xy: 1228, 1366
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Ship of the Line
   rotate: false
-  xy: 580, 793
+  xy: 1516, 1621
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Siege Tower
   rotate: false
-  xy: 652, 843
+  xy: 1588, 1682
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Sipahi
   rotate: false
-  xy: 868, 1058
+  xy: 292, 451
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Skirmisher
   rotate: false
-  xy: 940, 1132
+  xy: 364, 522
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Slinger
   rotate: false
-  xy: 1012, 1181
+  xy: 436, 610
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Spearman
   rotate: false
-  xy: 1588, 1718
+  xy: 1012, 1126
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Submarine
   rotate: false
-  xy: 1012, 1117
+  xy: 364, 458
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Swordsman
   rotate: false
-  xy: 1228, 1325
+  xy: 580, 666
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Tank
   rotate: false
-  xy: 1300, 1391
+  xy: 652, 716
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Tercio
   rotate: false
-  xy: 1372, 1452
+  xy: 724, 782
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Trebuchet
   rotate: false
-  xy: 292, 406
+  xy: 1228, 1234
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Trireme
   rotate: false
-  xy: 364, 458
+  xy: 1300, 1286
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Turtle Ship
   rotate: false
-  xy: 1300, 1327
+  xy: 508, 542
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/War Chariot
   rotate: false
-  xy: 1516, 1522
+  xy: 724, 714
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/War Elephant
   rotate: false
-  xy: 1588, 1584
+  xy: 796, 764
   size: 64, 62
   orig: 64, 62
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Warrior
   rotate: false
-  xy: 1660, 1646
+  xy: 868, 849
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Winged Hussar
   rotate: false
-  xy: 508, 513
+  xy: 1372, 1290
   size: 64, 68
   orig: 64, 68
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Work Boats
   rotate: false
-  xy: 580, 593
+  xy: 1444, 1366
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Work Boats-Modern era
   rotate: false
-  xy: 652, 651
+  xy: 1516, 1421
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/EdgeRealm/Units/Worker-Modern era
   rotate: false
-  xy: 724, 734
+  xy: 1588, 1490
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
